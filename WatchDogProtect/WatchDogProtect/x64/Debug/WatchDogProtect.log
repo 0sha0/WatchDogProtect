@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\ProgarmRelease\Cpp_Sln\WatchDogProtect\WatchDogProtect\main.cpp(60,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  WatchDogProtect.vcxproj -> D:\ProgarmRelease\Cpp_Sln\WatchDogProtect\x64\Debug\WatchDogProtect.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
